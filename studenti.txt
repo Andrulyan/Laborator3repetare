@@ -1,11 +1,3 @@
 cristian,georgescu,9,informatica,7
 marius,popescu,10,matematica,8
 marius,popescu,10,romana,9
-andreea,ionescu,12,engleza,10
-andreea,ionescu,12,matematica,10
-andreea,ionescu,12,informatica,10
-iulian,din,12,engleza,9
-iulian,din,12,informatica,10
-iulian,din,12,sport,10
-costel,radu,8,chimie,3
-costel,radu,8,matematica,2
